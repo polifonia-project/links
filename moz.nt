@@ -1,0 +1,1501 @@
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <https://schema.org/datePublished> "1966-10-18"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N981a37215b284c97894d9799086193bc <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <https://schema.org/associatedMedia> _:N981a37215b284c97894d9799086193bc .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metropole Orkest"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140122072231> .
+_:N981a37215b284c97894d9799086193bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/61423> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N145d4cace1a6415a86c0f0b368af833a <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/61423> .
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <https://schema.org/name> "Programma METROPOLE ORKEST - VALTEN, GUUS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <https://schema.org/byArtist> _:N145d4cace1a6415a86c0f0b368af833a .
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140431> .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140122072231> <https://schema.org/keywords> "Valten, Guus"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/datePublished> "1990-11-17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144231> .
+<http://data.beeldengeluid.nl/gtaa/89335> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chopin, Frédéric"@nl .
+<http://data.beeldengeluid.nl/gtaa/89335> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140123639231> .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/associatedMedia> _:Nd78b6e988a024b278c12821b1da7f4aa .
+<http://data.beeldengeluid.nl/gtaa/89335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+_:Nd78b6e988a024b278c12821b1da7f4aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nd78b6e988a024b278c12821b1da7f4aa <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/name> "Kurhausconcert"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N2052f0ed11dc48f6ab05f6b439163974 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/89335> .
+_:N344f7d0593e9428baa9f4ac1a61d9c9d <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/89335> .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/creator> _:N344f7d0593e9428baa9f4ac1a61d9c9d .
+<http://data.beeldengeluid.nl/gtaa/89335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/mentions> _:N2052f0ed11dc48f6ab05f6b439163974 .
+<http://data.beeldengeluid.nl/id/program/2101608140123639231> <https://schema.org/keywords> "Viardot, Pauline"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/gtaa/85414> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/158429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stouthamer, Paul"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/associatedMedia> _:Nf535e83aa03a408f8ee7acd7170347d0 .
+_:N915d92b60f094df38867c6c6d2a6e3a9 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/158429> .
+<http://data.beeldengeluid.nl/gtaa/1318722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/keywords> "Vermeerssen, Frans Kwartet"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nf535e83aa03a408f8ee7acd7170347d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140123713431> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/byArtist> _:N915d92b60f094df38867c6c6d2a6e3a9 .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/datePublished> "1994-10-21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/keywords> "Vermeerssen, F."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/158429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/158429> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/85414> <http://www.w3.org/2004/02/skos/core#prefLabel> "Braam, Michiel"@nl .
+<http://data.beeldengeluid.nl/gtaa/85414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/mentions> _:N831ec6867f6540e4ae5a31ab045e45f6 .
+_:Nd29a62efdaec4626a432741426989134 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/85414> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/name> "Programma Vermeerssen, Frans Kwartet - Stouthamer, Paul"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1318722> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/mentions> _:Neff88059fa79463cbb92abbc7d9428e4 .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/creator> _:Nd29a62efdaec4626a432741426989134 .
+<http://data.beeldengeluid.nl/gtaa/158429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/creator> _:N6f09e1eccbb4421ba861a408895f344f .
+<http://data.beeldengeluid.nl/gtaa/85414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/1318722> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kirk, R."@nl .
+_:N6f09e1eccbb4421ba861a408895f344f <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/158429> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/mentions> _:N9947814253de4eea914294cd3fe80e03 .
+_:Nc6fcd344cb154d7392542482c1a5be0e <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/1318722> .
+<http://data.beeldengeluid.nl/gtaa/1318722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140123713431> <https://schema.org/creator> _:Nc6fcd344cb154d7392542482c1a5be0e .
+_:N9947814253de4eea914294cd3fe80e03 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/158429> .
+_:N831ec6867f6540e4ae5a31ab045e45f6 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/1318722> .
+_:Nf535e83aa03a408f8ee7acd7170347d0 <https://schema.org/encodingFormat> "audio/mp3" .
+_:Neff88059fa79463cbb92abbc7d9428e4 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/85414> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140123822331> <https://schema.org/datePublished> "1995-01-22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140123822331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144831> .
+<http://data.beeldengeluid.nl/id/program/2101608140123822331> <https://schema.org/associatedMedia> _:Nebb9bad3c1ba4ad9a15592000d0d5122 .
+<http://data.beeldengeluid.nl/id/program/2101608140123822331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140123822331> .
+<http://data.beeldengeluid.nl/id/program/2101608140123822331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nebb9bad3c1ba4ad9a15592000d0d5122 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nebb9bad3c1ba4ad9a15592000d0d5122 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140123822331> <https://schema.org/name> "Dopper symfonie nr.7"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/name> "Programma Binsbergen, Corrie van - Palmer, F. - Abelen, Chris - Buis, J. - Koekkoek, H. - Binsbergen, Corrie van - Regteren Altena, E. van - Veenendaal, A."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/79867> <http://www.w3.org/2004/02/skos/core#prefLabel> "Binsbergen, Corrie van"@nl .
+<http://data.beeldengeluid.nl/gtaa/1199564> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buis, J."@nl .
+<http://data.beeldengeluid.nl/gtaa/256383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/byArtist> _:N17f041c48b51404fb488b8ed89bbc8eb .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/byArtist> _:Nba88f95f635f4d36b492bc71f136ac97 .
+_:N0198e624f9ec46a1a9e62acbdd81d052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/keywords> "Veenendaal, A."^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nba88f95f635f4d36b492bc71f136ac97 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/79867> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/byArtist> _:Nc8945c75d25e43ae890875d17b32a270 .
+_:Nc8945c75d25e43ae890875d17b32a270 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1390242> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/79867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/keywords> "Koekkoek, H."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+_:N17f041c48b51404fb488b8ed89bbc8eb <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1199564> .
+<http://data.beeldengeluid.nl/gtaa/256383> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124082231> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/associatedMedia> _:N0198e624f9ec46a1a9e62acbdd81d052 .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/keywords> "Regteren Altena, E. van"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/79867> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/byArtist> _:Nb2044035afa94e6db9e51063b1c50e74 .
+<http://data.beeldengeluid.nl/gtaa/1390242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palmer, F."@nl .
+_:Nb2044035afa94e6db9e51063b1c50e74 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/256383> .
+<http://data.beeldengeluid.nl/gtaa/1199564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1390242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124082231> <https://schema.org/datePublished> "1991-12-06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/256383> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abelen, Chris"@nl .
+<http://data.beeldengeluid.nl/gtaa/1390242> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1199564> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N0198e624f9ec46a1a9e62acbdd81d052 <https://schema.org/encodingFormat> "audio/mp3" .
+
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/name> "Programma Mok, Gwendolyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/75372> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1462342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/133691> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monk, Thelonious"@nl .
+<http://data.beeldengeluid.nl/gtaa/75372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adams, John"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/creator> _:Neb1202cdb3374657ac901cca5d394c9b .
+<http://data.beeldengeluid.nl/gtaa/133691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+_:Nf1168198c74e426b9d85a7ab8c21abb9 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/75372> .
+<http://data.beeldengeluid.nl/gtaa/106806> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/byArtist> _:N0c6bc1a882a3453bbabad30ad9bae44a .
+<http://data.beeldengeluid.nl/gtaa/1462342> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tcherepnin, Ivan"@nl .
+<http://data.beeldengeluid.nl/gtaa/258233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/creator> _:N8d3b9e4a46f246219816d1769ec686d2 .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/creator> _:N3de3c08929a94f81b53cded3a10b687b .
+<http://data.beeldengeluid.nl/gtaa/1422407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/mentions> _:Nc9da075d3c734b59b6b98b94e17aea14 .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/mentions> _:Ne2469c058ff54f3381f869b31d63fe4e .
+_:Ne2fab72b9d7d4b37b793df511434df91 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/1462342> .
+<http://data.beeldengeluid.nl/gtaa/75372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/creator> _:Ne2fab72b9d7d4b37b793df511434df91 .
+<http://data.beeldengeluid.nl/gtaa/1462342> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1604724> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N0c6bc1a882a3453bbabad30ad9bae44a <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1604724> .
+_:N3de3c08929a94f81b53cded3a10b687b <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/106806> .
+<http://data.beeldengeluid.nl/gtaa/106806> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hammer, Jan"@nl .
+_:Nc9da075d3c734b59b6b98b94e17aea14 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/133691> .
+_:N78f0ba7ff2b34300b6151a867dedb1f6 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1422407> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rosenblum, Joshua"@nl .
+_:N2479a0ddebd148738ad4b2c8f3945904 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/133691> .
+<http://data.beeldengeluid.nl/gtaa/133691> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/106806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/258233> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144831> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/keywords> "Vines, Allen Le"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/mentions> _:N3acdf202e0484dd1a6291ab657d1aaf3 .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/associatedMedia> _:N78f0ba7ff2b34300b6151a867dedb1f6 .
+_:N3acdf202e0484dd1a6291ab657d1aaf3 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/258233> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/mentions> _:N9b73711ea855484fa519f531366ca312 .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/creator> _:Nb34b988846e5428e9f825600b0468b78 .
+_:N8d3b9e4a46f246219816d1769ec686d2 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/1422407> .
+_:Nb34b988846e5428e9f825600b0468b78 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/258233> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/mentions> _:N81dca765ed4545d0bea356471e5a1876 .
+<http://data.beeldengeluid.nl/gtaa/75372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/1462342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1604724> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mok, Gwendolyn"@nl .
+<http://data.beeldengeluid.nl/gtaa/1604724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N78f0ba7ff2b34300b6151a867dedb1f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N9b73711ea855484fa519f531366ca312 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/106806> .
+_:Ne2469c058ff54f3381f869b31d63fe4e <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/1422407> .
+<http://data.beeldengeluid.nl/gtaa/258233> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corigliano, John"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124290231> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/datePublished> "1995-01-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1422407> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/106806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/133691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/creator> _:N2479a0ddebd148738ad4b2c8f3945904 .
+_:N81dca765ed4545d0bea356471e5a1876 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/1462342> .
+_:Neb1202cdb3374657ac901cca5d394c9b <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/75372> .
+<http://data.beeldengeluid.nl/gtaa/258233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1422407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124290231> <https://schema.org/mentions> _:Nf1168198c74e426b9d85a7ab8c21abb9 .
+
+<http://data.beeldengeluid.nl/gtaa/104482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/creator> _:N601d43530e824748902af064913a275a .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/creator> _:N61079ce900414758a71cb08eb7089bd9 .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/mentions> _:N46ac61edae004dc39ded5bb0802e4f44 .
+<http://data.beeldengeluid.nl/gtaa/144311> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/259086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/byArtist> _:Nfa03b62811ab492bab44de1369710c91 .
+<http://data.beeldengeluid.nl/gtaa/90814> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N601d43530e824748902af064913a275a <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/90814> .
+<http://data.beeldengeluid.nl/gtaa/115086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jansen, Rudolf"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/150302> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schäfer, Dirk"@nl .
+<http://data.beeldengeluid.nl/gtaa/84826> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/creator> _:Nf98744da28874b09b99cc671f7c20ee0 .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/mentions> _:Nfc1f4a0a5266415bbfa66df12b2e6934 .
+_:Nfc1f4a0a5266415bbfa66df12b2e6934 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/104482> .
+<http://data.beeldengeluid.nl/gtaa/150302> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N0be68da378b24c249cb648a562bd311e <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/150302> .
+<http://data.beeldengeluid.nl/gtaa/115086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N46ac61edae004dc39ded5bb0802e4f44 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/90814> .
+_:Nfa03b62811ab492bab44de1369710c91 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/115086> .
+<http://data.beeldengeluid.nl/gtaa/90814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cramer, Anna"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/creator> _:N0d2ec32cb8874fb99f2a7f25dddc6ec4 .
+<http://data.beeldengeluid.nl/gtaa/104482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/84826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bosmans, Henriëtte"@nl .
+_:Nf98744da28874b09b99cc671f7c20ee0 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/84826> .
+_:N0d2ec32cb8874fb99f2a7f25dddc6ec4 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/144311> .
+<http://data.beeldengeluid.nl/gtaa/144311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/259086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pfeiler, Christa"@nl .
+<http://data.beeldengeluid.nl/gtaa/104482> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grieg, Edvard"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/byArtist> _:N2ca9c95b0ed54914b3bfb0f16ae42852 .
+<http://data.beeldengeluid.nl/gtaa/90814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/datePublished> "1995-05-22"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N61079ce900414758a71cb08eb7089bd9 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/104482> .
+_:N23527ad571844fa1b4ae0e855dbb16e5 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/mentions> _:N92cd6284f44e4ed388fa5120d9074c64 .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/keywords> "Verhaar, A."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/84826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/150302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/mentions> _:Na77567c8bb0d4d298e91e3218024c38f .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/keywords> "Vlardot, P./ Chopin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144831> .
+_:N2ca9c95b0ed54914b3bfb0f16ae42852 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/259086> .
+<http://data.beeldengeluid.nl/gtaa/104482> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/115086> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/associatedMedia> _:N23527ad571844fa1b4ae0e855dbb16e5 .
+<http://data.beeldengeluid.nl/gtaa/144311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+_:N23527ad571844fa1b4ae0e855dbb16e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Na77567c8bb0d4d298e91e3218024c38f <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/144311> .
+<http://data.beeldengeluid.nl/gtaa/90814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/259086> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/84826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124340631> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/name> "Programma Pfeiler, Christa - Jansen, Rudolf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/150302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/144311> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rachmaninov, Sergej"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/mentions> _:N0be68da378b24c249cb648a562bd311e .
+_:Na4fc09df4bd7441f9cbec6deda41d78e <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/150302> .
+<http://data.beeldengeluid.nl/id/program/2101608140124340631> <https://schema.org/creator> _:Na4fc09df4bd7441f9cbec6deda41d78e .
+_:N92cd6284f44e4ed388fa5120d9074c64 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/84826> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140124342631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140124342631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124342631> .
+<http://data.beeldengeluid.nl/id/program/2101608140124342631> <https://schema.org/name> "Wandelende tak"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124342631> <https://schema.org/associatedMedia> _:N43df3c36be294c2fa1acd9e934f2d9be .
+<http://data.beeldengeluid.nl/id/program/2101608140124342631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144831> .
+_:N43df3c36be294c2fa1acd9e934f2d9be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N43df3c36be294c2fa1acd9e934f2d9be <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140124342631> <https://schema.org/conditionsOfAccess> "Media is not available for viewing/listening online"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124342631> <https://schema.org/datePublished> "1995-07-03"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140124344031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N9197276ddb974e3bb11e144d24fcbfe1 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140124344031> <https://schema.org/associatedMedia> _:N9197276ddb974e3bb11e144d24fcbfe1 .
+<http://data.beeldengeluid.nl/id/program/2101608140124344031> <https://schema.org/conditionsOfAccess> "Media is not available for viewing/listening online"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N9197276ddb974e3bb11e144d24fcbfe1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140124344031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144831> .
+<http://data.beeldengeluid.nl/id/program/2101608140124344031> <https://schema.org/name> "De wandelende tak"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124344031> <https://schema.org/datePublished> "1995-05-29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124344031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124344031> .
+
+<http://data.beeldengeluid.nl/gtaa/1488677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/mentions> _:Nd3d13d7e4e3a426a810cb81e2f956e51 .
+<http://data.beeldengeluid.nl/gtaa/126348> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/143767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/gtaa/1244067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+_:N620721e34451415bba52686e5b5239e7 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/143767> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/byArtist> _:Nd2657bf3b8fb4adb98e3641956d76acd .
+_:N62d6ccd1b6844adab876867b67d44693 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/1244067> .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nb535e337658c4505ba5c67dd8fc4cb6b <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/1488677> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/creator> _:Nb535e337658c4505ba5c67dd8fc4cb6b .
+_:Nf522c666832b4c2b9c8e84919f8251bf <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/1488677> .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metropole Orkest"@nl .
+<http://data.beeldengeluid.nl/gtaa/126348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1488677> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1244067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elders, J."@nl .
+<http://data.beeldengeluid.nl/gtaa/143767> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/creator> _:N620721e34451415bba52686e5b5239e7 .
+<http://data.beeldengeluid.nl/gtaa/1244067> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/byArtist> _:N825e15671d8446ddb38b073b0435cfa3 .
+<http://data.beeldengeluid.nl/gtaa/93501> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/mentions> _:Ne188d4a08d1c4ae5a3696ca321ee4ab9 .
+<http://data.beeldengeluid.nl/gtaa/126348> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linden, Dolf van der"@nl .
+_:Ne188d4a08d1c4ae5a3696ca321ee4ab9 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/1244067> .
+_:N825e15671d8446ddb38b073b0435cfa3 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/93501> .
+<http://data.beeldengeluid.nl/gtaa/1488677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Webb, J."@nl .
+_:Ndc7da0a489804e0db28530efab2cb1dd <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/keywords> "Vanheusen, J."^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nd2657bf3b8fb4adb98e3641956d76acd <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/61423> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/mentions> _:Nf522c666832b4c2b9c8e84919f8251bf .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/datePublished> "1970-04-22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1488677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/byArtist> _:N4d633d56c99648a7b11399e0ee7e9872 .
+<http://data.beeldengeluid.nl/gtaa/143767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nd3d13d7e4e3a426a810cb81e2f956e51 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/143767> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/associatedMedia> _:Ndc7da0a489804e0db28530efab2cb1dd .
+_:Ndc7da0a489804e0db28530efab2cb1dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/1244067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124427331> .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/creator> _:N62d6ccd1b6844adab876867b67d44693 .
+<http://data.beeldengeluid.nl/gtaa/93501> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dijk, Louis van"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140124427331> <https://schema.org/name> "Programma Metropole Orkest - Linden, Dolf van der - Dyk, Louis van"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/61423> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/143767> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pronk, Rob"@nl .
+_:N4d633d56c99648a7b11399e0ee7e9872 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/126348> .
+<http://data.beeldengeluid.nl/gtaa/93501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140124670731> <https://schema.org/datePublished> "1986-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N9e934239d7ad46c49fd47e34511d9d38 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140124670731> <https://schema.org/associatedMedia> _:N9e934239d7ad46c49fd47e34511d9d38 .
+<http://data.beeldengeluid.nl/id/program/2101608140124670731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140124670731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N9e934239d7ad46c49fd47e34511d9d38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140124670731> <https://schema.org/name> "Programma Tuxedomoon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124670731> <https://schema.org/keywords> "Tuxedomoon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124670731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124670731> .
+
+_:N1f84571dc6444f28bf7ac227497d7f1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140124987731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124987731> .
+<http://data.beeldengeluid.nl/id/program/2101608140124987731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140124987731> <https://schema.org/associatedMedia> _:N1f84571dc6444f28bf7ac227497d7f1b .
+<http://data.beeldengeluid.nl/id/program/2101608140124987731> <https://schema.org/keywords> "Vengeance"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124987731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140124987731> <https://schema.org/name> "Programma Vengeance"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N1f84571dc6444f28bf7ac227497d7f1b <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140124987731> <https://schema.org/datePublished> "1986-06-27"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140124999631> <https://schema.org/name> "Programma Vengeance"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124999631> <https://schema.org/datePublished> "1987-11-06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140124999631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140124999631> <https://schema.org/associatedMedia> _:Ne4fe4bc8514040c7bfb0897a1fda56d1 .
+_:Ne4fe4bc8514040c7bfb0897a1fda56d1 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140124999631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140124999631> .
+<http://data.beeldengeluid.nl/id/program/2101608140124999631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Ne4fe4bc8514040c7bfb0897a1fda56d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140124999631> <https://schema.org/keywords> "Vengeance"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <https://schema.org/byArtist> _:N7ba39206fe0d4f7cbef8f650d1fdf4f6 .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nf58e2b9b1e2a423087adbc89302031b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <https://schema.org/datePublished> "1966-10-21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metropole Orkest"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <https://schema.org/associatedMedia> _:Nf58e2b9b1e2a423087adbc89302031b7 .
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <https://schema.org/keywords> "Valten, Guus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/61423> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <https://schema.org/name> "Programma Metropole Orkest - Valten, Guus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nf58e2b9b1e2a423087adbc89302031b7 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140125120831> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140125120831> .
+_:N7ba39206fe0d4f7cbef8f650d1fdf4f6 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/61423> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140125278331> <https://schema.org/associatedMedia> _:N31acee79056e4fdaa1d97d31e8343792 .
+<http://data.beeldengeluid.nl/id/program/2101608140125278331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140731> .
+<http://data.beeldengeluid.nl/id/program/2101608140125278331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N31acee79056e4fdaa1d97d31e8343792 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140125278331> <https://schema.org/datePublished> "1967-11-28"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140125278331> <https://schema.org/keywords> "Valente, Catharina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140125278331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140125278331> .
+<http://data.beeldengeluid.nl/id/program/2101608140125278331> <https://schema.org/name> "Programma Valente, Catharina"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N31acee79056e4fdaa1d97d31e8343792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140126037031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140126037031> <https://schema.org/associatedMedia> _:N46384f26367c4c2e9a2119c3793ae48b .
+<http://data.beeldengeluid.nl/id/program/2101608140126037031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140126037031> .
+<http://data.beeldengeluid.nl/id/program/2101608140126037031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+_:N46384f26367c4c2e9a2119c3793ae48b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N46384f26367c4c2e9a2119c3793ae48b <https://schema.org/encodingFormat> "audio/mp3" .
+
+_:N5a87986164ca46c5872a84fec211294a <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/139946> .
+<http://data.beeldengeluid.nl/gtaa/259608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Procter, Norma"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029139331> .
+<http://data.beeldengeluid.nl/gtaa/139946> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palla, Pierre"@nl .
+_:N030a1f9b459a4c14aa44506e488259e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N082c89c939c1430b8bb6988f35bf75c1 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/259608> .
+<http://data.beeldengeluid.nl/gtaa/259608> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/139946> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140126493231> .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <https://schema.org/byArtist> _:N082c89c939c1430b8bb6988f35bf75c1 .
+_:N030a1f9b459a4c14aa44506e488259e1 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <https://schema.org/associatedMedia> _:N030a1f9b459a4c14aa44506e488259e1 .
+<http://data.beeldengeluid.nl/gtaa/139946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <https://schema.org/byArtist> _:N5a87986164ca46c5872a84fec211294a .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <https://schema.org/datePublished> "1955-05-22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <https://schema.org/name> "Programma Procter, Norma - Palla, Pierre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/259608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140126493231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/byArtist> _:Nd8d850183ede4f06b35d9b68378fd5b6 .
+_:N5f1d59f6eee54bcb8e87c14cccc9578e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N99c05be531814f7bb1ae546bd9097dec <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/239647> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/byArtist> _:N1a058f415f7e47f992620f9dd5493a63 .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/keywords> "Stordiau, Jose"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1627689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/262341> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malde, Elizabeth van"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/keywords> "Groen, Jaap"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/51770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029141131> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/name> "Programma Haghe Sanghers - Bruenott, Carla - Riley, John - Calsteren, Henk van - Stordiau, Jose - Verheyen, Jos - Groen, Jaap - Malde, Elizabeth van - Beke, Wynand - Vranken, Jos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/239647> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/262341> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/239647> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vranken, Jos (sr.)"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/byArtist> _:N7ed172205fb94523b9272c2fc61212b7 .
+_:N1a058f415f7e47f992620f9dd5493a63 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1627689> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/associatedMedia> _:N5f1d59f6eee54bcb8e87c14cccc9578e .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/keywords> "Calsteren, Henk van"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1627689> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riley, John"@nl .
+_:Nd8d850183ede4f06b35d9b68378fd5b6 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/51770> .
+<http://data.beeldengeluid.nl/gtaa/262341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N7ed172205fb94523b9272c2fc61212b7 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/262341> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/keywords> "Bruenott, Carla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/51770> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/239647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/keywords> "Verheyen, Jos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/datePublished> "1962-02-12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1627689> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/byArtist> _:N99c05be531814f7bb1ae546bd9097dec .
+<http://data.beeldengeluid.nl/gtaa/51770> <http://www.w3.org/2004/02/skos/core#prefLabel> "Die Haghe Sanghers"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/keywords> "Beke, Wynand"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N5f1d59f6eee54bcb8e87c14cccc9578e <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140126659131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140126659131> .
+
+_:Neba18de76eb843bc8c878770f9569c6b <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/61423> .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <https://schema.org/name> "Programma Metropole Orkest - Valten, Guus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <https://schema.org/byArtist> _:Neba18de76eb843bc8c878770f9569c6b .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metropole Orkest"@nl .
+_:N372477a247a944dbae9d80e7e7a2f069 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <https://schema.org/keywords> "Valten, Guus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/61423> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029139831> .
+_:N372477a247a944dbae9d80e7e7a2f069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <https://schema.org/datePublished> "1964-10-20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <https://schema.org/associatedMedia> _:N372477a247a944dbae9d80e7e7a2f069 .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140126793231> .
+<http://data.beeldengeluid.nl/id/program/2101608140126793231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+
+_:N778f440e752248ac95afa69411a57117 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140126940231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140731> .
+_:N778f440e752248ac95afa69411a57117 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140126940231> <https://schema.org/datePublished> "1967-06-24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140126940231> <https://schema.org/keywords> "Viegen-pieffers, Ria van"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140126940231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140126940231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140126940231> .
+<http://data.beeldengeluid.nl/id/program/2101608140126940231> <https://schema.org/associatedMedia> _:N778f440e752248ac95afa69411a57117 .
+<http://data.beeldengeluid.nl/id/program/2101608140126940231> <https://schema.org/name> "Programma Viegen-pieffers, Ria van"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/gtaa/115975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/byArtist> _:N1a21e1dcf36d422fa9b20d142a792bbf .
+<http://data.beeldengeluid.nl/gtaa/1615103> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palet, Jose"@nl .
+_:N8e9d36f0947149ec805d4c7d69a129a7 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1615103> .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/name> "Programma De Scala 1910-1918"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1615103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/115975> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerkhoff, Hans"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/byArtist> _:N20da9e6001224d27932828bbc65260fa .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/byArtist> _:N8e9d36f0947149ec805d4c7d69a129a7 .
+<http://data.beeldengeluid.nl/gtaa/115975> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/262377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N35f00d3ee36046bf9af3c60b664e8cdf <https://schema.org/encodingFormat> "audio/mp3" .
+_:N20da9e6001224d27932828bbc65260fa <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/115975> .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/associatedMedia> _:N35f00d3ee36046bf9af3c60b664e8cdf .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/datePublished> "1968-03-26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/262377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sjaljapin, Fjodor"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/keywords> "Vinas, Francisco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1615103> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:Ncf65d6b584f049c599193d6e56fb30be <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/262377> .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127053731> .
+<http://data.beeldengeluid.nl/gtaa/261904> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/keywords> "Zerola, Nicola"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/261904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/262377> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/261904> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tetrazzini, Luisa"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/byArtist> _:Ncf65d6b584f049c599193d6e56fb30be .
+_:N35f00d3ee36046bf9af3c60b664e8cdf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140127053731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029141031> .
+_:N1a21e1dcf36d422fa9b20d142a792bbf <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/261904> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140127728031> <https://schema.org/keywords> "Vanhoecke, Daan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140127728031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127728031> .
+_:N6214ed40b9c845ce9412736597a9e925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140127728031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N6214ed40b9c845ce9412736597a9e925 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140127728031> <https://schema.org/datePublished> "1974-09-28"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140127728031> <https://schema.org/name> "Programma Vanhoecke, Daan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140127728031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142631> .
+<http://data.beeldengeluid.nl/id/program/2101608140127728031> <https://schema.org/associatedMedia> _:N6214ed40b9c845ce9412736597a9e925 .
+
+<http://data.beeldengeluid.nl/gtaa/1522976> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N700d532ca3fa456e98e9481d2512cead <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140128270031> <https://schema.org/datePublished> "1980-02-15"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nb0d08a6cdd1e481ea3299abb379d46b8 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1522976> .
+<http://data.beeldengeluid.nl/id/program/2101608140128270031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143631> .
+<http://data.beeldengeluid.nl/id/program/2101608140128270031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1522976> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bradshaw, Susan"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140128270031> <https://schema.org/name> "Programma Bradshaw, Susan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1522976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140128270031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140128270031> .
+_:N700d532ca3fa456e98e9481d2512cead <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140128270031> <https://schema.org/associatedMedia> _:N700d532ca3fa456e98e9481d2512cead .
+<http://data.beeldengeluid.nl/id/program/2101608140128270031> <https://schema.org/byArtist> _:Nb0d08a6cdd1e481ea3299abb379d46b8 .
+
+<http://data.beeldengeluid.nl/id/program/2101608140128365531> <https://schema.org/datePublished> "1981-04-09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365531> <https://schema.org/name> "Programma het koraal van de week"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365531> <https://schema.org/associatedMedia> _:Nbc1f6e36e1894150a71c57090387b7e0 .
+_:Nbc1f6e36e1894150a71c57090387b7e0 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140128365531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365531> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140128365531> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365531> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143831> .
+_:Nbc1f6e36e1894150a71c57090387b7e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140128365831> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140128365831> .
+_:Nca59755124054d9a995c3a7ee8161708 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140128365831> <https://schema.org/datePublished> "1981-04-09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365831> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365831> <https://schema.org/associatedMedia> _:Nca59755124054d9a995c3a7ee8161708 .
+_:Nca59755124054d9a995c3a7ee8161708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140128365831> <https://schema.org/name> "Programma het koraal van de week"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140128721131> <https://schema.org/associatedMedia> _:N73c1bd6a408f4237a2bc045b88812f47 .
+<http://data.beeldengeluid.nl/id/program/2101608140128721131> <https://schema.org/keywords> "Toth, Gwendolyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140128721131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N73c1bd6a408f4237a2bc045b88812f47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N73c1bd6a408f4237a2bc045b88812f47 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140128721131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140128721131> .
+<http://data.beeldengeluid.nl/id/program/2101608140128721131> <https://schema.org/name> "Programma Toth, Gwendolyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140128721131> <https://schema.org/datePublished> "1982-05-24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140128721131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144031> .
+
+_:Nddd8fcf4363a477a900f05ede9c8e071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/1649123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <https://schema.org/associatedMedia> _:Nddd8fcf4363a477a900f05ede9c8e071 .
+<http://data.beeldengeluid.nl/gtaa/1375936> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <https://schema.org/byArtist> _:N42ec242d301e4743a73891e050be6af6 .
+_:N42ec242d301e4743a73891e050be6af6 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1649123> .
+_:N07542c9d12f04d2fa944fc9cf5a81583 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1375936> .
+<http://data.beeldengeluid.nl/gtaa/1375936> <http://www.w3.org/2004/02/skos/core#prefLabel> "Narayan, Ram"@nl .
+<http://data.beeldengeluid.nl/gtaa/1649123> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <https://schema.org/name> "Programma Narayan, Ram - Talwalkar, Suresh"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nddd8fcf4363a477a900f05ede9c8e071 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1649123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Talwalkar, Suresh"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <https://schema.org/datePublished> "1976-02-15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142931> .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129145631> .
+<http://data.beeldengeluid.nl/gtaa/1375936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129145631> <https://schema.org/byArtist> _:N07542c9d12f04d2fa944fc9cf5a81583 .
+
+_:Nfe4511ab10c745b4b03489739deec0c7 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1156114> .
+<http://data.beeldengeluid.nl/id/program/2101608140129151031> <https://schema.org/byArtist> _:Nfe4511ab10c745b4b03489739deec0c7 .
+<http://data.beeldengeluid.nl/id/program/2101608140129151031> <https://schema.org/datePublished> "1978-08-12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129151031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129151031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129151031> .
+<http://data.beeldengeluid.nl/id/program/2101608140129151031> <https://schema.org/name> "Programma Addy, Mustapha Tettey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1156114> <http://www.w3.org/2004/02/skos/core#prefLabel> "Addy, Mustapha Tettey"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129151031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143231> .
+<http://data.beeldengeluid.nl/id/program/2101608140129151031> <https://schema.org/associatedMedia> _:N6c8b38bd99b3437d9aa7d46a96c3f2f0 .
+<http://data.beeldengeluid.nl/gtaa/1156114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N6c8b38bd99b3437d9aa7d46a96c3f2f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N6c8b38bd99b3437d9aa7d46a96c3f2f0 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1156114> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet bekend"@nl .
+_:N88830da646be4c58b3603ac622561549 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:Ne3d071705dcc4cc09545204b311ccaf2 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/byArtist> _:N2acc60a40f794ab7956acaf79ca52076 .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129582231> .
+_:N1e8d1c076c9840548535518fda10098a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/byArtist> _:N3561c22a081947d586544c714461912b .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/byArtist> _:N8ab704a8b52345edad8d94c7e68795d8 .
+_:N8ab704a8b52345edad8d94c7e68795d8 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:N2acc60a40f794ab7956acaf79ca52076 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:N1e8d1c076c9840548535518fda10098a <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/238660> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/name> "Programma KIT - Holland Festival 1984 - Muziek uit India"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/associatedMedia> _:N1e8d1c076c9840548535518fda10098a .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/byArtist> _:Ne3d071705dcc4cc09545204b311ccaf2 .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N9fd2cc9cb8614015b6075e45e871a1e0 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:N3561c22a081947d586544c714461912b <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/byArtist> _:N9fd2cc9cb8614015b6075e45e871a1e0 .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/datePublished> "1984-06-13"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/byArtist> _:N88830da646be4c58b3603ac622561549 .
+<http://data.beeldengeluid.nl/id/program/2101608140129582231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143131> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129584431> <https://schema.org/associatedMedia> _:Nf168055c9d4342b9a2dfc40e2ef537b4 .
+_:Nf168055c9d4342b9a2dfc40e2ef537b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129584431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129584431> <https://schema.org/name> "Programma KIT - Muziek uit India - Dhrupad Festival"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129584431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129584431> .
+_:Nf168055c9d4342b9a2dfc40e2ef537b4 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129584431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+
+_:Nea8a0bd268ce421cbc3112f2905c2642 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1317159> .
+<http://data.beeldengeluid.nl/gtaa/1317159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/150685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nc14bd6f5e4d340f7bb5b8064597217b6 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129586031> .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <https://schema.org/datePublished> "1987-06-18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <https://schema.org/byArtist> _:Nd8d1022352f247c08e95b574d8a98329 .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <https://schema.org/associatedMedia> _:Nc14bd6f5e4d340f7bb5b8064597217b6 .
+<http://data.beeldengeluid.nl/gtaa/1317159> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/150685> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143731> .
+_:Nd8d1022352f247c08e95b574d8a98329 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/150685> .
+<http://data.beeldengeluid.nl/gtaa/150685> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers, Huib"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nc14bd6f5e4d340f7bb5b8064597217b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <https://schema.org/byArtist> _:Nea8a0bd268ce421cbc3112f2905c2642 .
+<http://data.beeldengeluid.nl/id/program/2101608140129586031> <https://schema.org/name> "Programma Khan, Ali Akbar - Schippers, Huib"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1317159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Khan, Ali Akbar"@nl .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129591031> <https://schema.org/associatedMedia> _:Ne396f47a333c4b7098aac1ee1945eb15 .
+<http://data.beeldengeluid.nl/id/program/2101608140129591031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129591031> .
+<http://data.beeldengeluid.nl/id/program/2101608140129591031> <https://schema.org/name> "Programma KIT - Musicwork by Kupper Leo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129591031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+_:Ne396f47a333c4b7098aac1ee1945eb15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Ne396f47a333c4b7098aac1ee1945eb15 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129591031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+<http://data.beeldengeluid.nl/gtaa/64530> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <https://schema.org/associatedMedia> _:N92d6dbb28bb54825ac586495ac010389 .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <https://schema.org/byArtist> _:Nb6c40a084a6d4177825817f648a68a79 .
+<http://data.beeldengeluid.nl/gtaa/1598259> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <https://schema.org/name> "Programma Marrero, Nicky - Nueva Manteca"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Ndc2f42cd66f149e48e53abeb6e9b3f16 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1598259> .
+_:N92d6dbb28bb54825ac586495ac010389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029144231> .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1598259> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marrero, Nicky"@nl .
+_:Nb6c40a084a6d4177825817f648a68a79 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/64530> .
+_:N92d6dbb28bb54825ac586495ac010389 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <https://schema.org/byArtist> _:Ndc2f42cd66f149e48e53abeb6e9b3f16 .
+<http://data.beeldengeluid.nl/gtaa/64530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <https://schema.org/datePublished> "1990-02-11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129597531> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129597531> .
+<http://data.beeldengeluid.nl/gtaa/64530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nueva Manteca"@nl .
+<http://data.beeldengeluid.nl/gtaa/1598259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129628431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029145131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129628431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129628431> .
+_:Neee7b12e5d434c72ad743a9226c7f639 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Neee7b12e5d434c72ad743a9226c7f639 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129628431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129628431> <https://schema.org/datePublished> "1997-01-18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129628431> <https://schema.org/keywords> "Undeclinable Ambuscade"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129628431> <https://schema.org/associatedMedia> _:Neee7b12e5d434c72ad743a9226c7f639 .
+<http://data.beeldengeluid.nl/id/program/2101608140129628431> <https://schema.org/name> "Programma 2 Meter Sessies"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/gtaa/1064004> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gamelan"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129679431> <https://schema.org/datePublished> "1970-05-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1064004> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:Na365ca4faed44b43b22af4ae38741175 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1064004> .
+_:Nc794f0c3f0d1435b89a14b9337a579ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129679431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129679431> .
+<http://data.beeldengeluid.nl/gtaa/1064004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129679431> <https://schema.org/byArtist> _:Na365ca4faed44b43b22af4ae38741175 .
+<http://data.beeldengeluid.nl/id/program/2101608140129679431> <https://schema.org/associatedMedia> _:Nc794f0c3f0d1435b89a14b9337a579ec .
+_:Nc794f0c3f0d1435b89a14b9337a579ec <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129679431> <https://schema.org/name> "Programma Gamelan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129679431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029141631> .
+<http://data.beeldengeluid.nl/id/program/2101608140129679431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129679731> <https://schema.org/name> "Programma KIT - Muziek uit Oezbekistan"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N77acc137abe4420290c6a1360a7b8593 <https://schema.org/encodingFormat> "audio/mp3" .
+_:N77acc137abe4420290c6a1360a7b8593 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129679731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129679731> <https://schema.org/associatedMedia> _:N77acc137abe4420290c6a1360a7b8593 .
+<http://data.beeldengeluid.nl/id/program/2101608140129679731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129679731> .
+<http://data.beeldengeluid.nl/id/program/2101608140129679731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <https://schema.org/associatedMedia> _:N36549f722f3c43a2a799b96bafd21c3a .
+<http://data.beeldengeluid.nl/gtaa/1596703> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mamba, Pecos"@nl .
+<http://data.beeldengeluid.nl/gtaa/1596703> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <https://schema.org/datePublished> "1972-01-30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142031> .
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129680431> .
+_:Nfa7f9189b2e34178b2da64352f3cdc0e <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1596703> .
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <https://schema.org/byArtist> _:Nd782b094222e4027a9c92d270f9c4420 .
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <https://schema.org/byArtist> _:Nfa7f9189b2e34178b2da64352f3cdc0e .
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nd782b094222e4027a9c92d270f9c4420 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1150761> .
+<http://data.beeldengeluid.nl/gtaa/1596703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1150761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wim v.d. Beek Combo"@nl .
+_:N36549f722f3c43a2a799b96bafd21c3a <https://schema.org/encodingFormat> "audio/mp3" .
+_:N36549f722f3c43a2a799b96bafd21c3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/1150761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129680431> <https://schema.org/name> "Programma Mamba, Pecos - Wim v.d. Beek Combo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1150761> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129681231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N0eed1651347b4e5a824941e3116db56f <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+<http://data.beeldengeluid.nl/id/program/2101608140129681231> <https://schema.org/name> "Programma KIT - Muziek uit Brazilië - Diverse uitvoerenden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129681231> <https://schema.org/associatedMedia> _:Nc7b7fc983b9441c09e81278ecb7bf885 .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129681231> <https://schema.org/byArtist> _:N0eed1651347b4e5a824941e3116db56f .
+_:Nc7b7fc983b9441c09e81278ecb7bf885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nc7b7fc983b9441c09e81278ecb7bf885 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129681231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129681231> .
+<http://data.beeldengeluid.nl/id/program/2101608140129681231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129686231> <https://schema.org/datePublished> "1976-08-29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129686231> <https://schema.org/associatedMedia> _:N8795853d96da40cbac978268e9182907 .
+<http://data.beeldengeluid.nl/gtaa/1457637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1457637> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subramaniam, L."@nl .
+_:N9b9978a60a6a464f94c0a95f9046b9c7 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1457637> .
+<http://data.beeldengeluid.nl/gtaa/1457637> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129686231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129686231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142931> .
+<http://data.beeldengeluid.nl/id/program/2101608140129686231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129686231> .
+<http://data.beeldengeluid.nl/id/program/2101608140129686231> <https://schema.org/byArtist> _:N9b9978a60a6a464f94c0a95f9046b9c7 .
+_:N8795853d96da40cbac978268e9182907 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N8795853d96da40cbac978268e9182907 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129686231> <https://schema.org/name> "Programma Subramaniam, L."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/gtaa/1393542> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <https://schema.org/associatedMedia> _:Nfa3a45460ad54cefaa1cfc64e1355675 .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <https://schema.org/datePublished> "1976-10-10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1211021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Ncc99eebccb7448f682355fc78f065075 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1211021> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142931> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <https://schema.org/byArtist> _:Ncc99eebccb7448f682355fc78f065075 .
+_:N03fcffcd20fb4ac6920a1bda9e1e21ec <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1393542> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <https://schema.org/byArtist> _:N03fcffcd20fb4ac6920a1bda9e1e21ec .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129687031> .
+<http://data.beeldengeluid.nl/gtaa/1211021> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1211021> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemirani, Djamchid"@nl .
+<http://data.beeldengeluid.nl/gtaa/1393542> <http://www.w3.org/2004/02/skos/core#prefLabel> "Payvar, Faramarz"@nl .
+<http://data.beeldengeluid.nl/gtaa/1393542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687031> <https://schema.org/name> "Programma Payvar, Faramarz - Chemirani, Djamchid"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nfa3a45460ad54cefaa1cfc64e1355675 <https://schema.org/encodingFormat> "audio/mp3" .
+_:Nfa3a45460ad54cefaa1cfc64e1355675 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129687131> <https://schema.org/byArtist> _:N9fc1c157ddde4ce4bba46c205f536ebd .
+<http://data.beeldengeluid.nl/id/program/2101608140129687131> <https://schema.org/associatedMedia> _:N1a7653507bf54defbfca17d37f08cf2e .
+_:N9fc1c157ddde4ce4bba46c205f536ebd <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1547949> .
+<http://data.beeldengeluid.nl/gtaa/1547949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Farhat, Hormoz"@nl .
+_:N1a7653507bf54defbfca17d37f08cf2e <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129687131> <https://schema.org/name> "Programma Farhat, Hormoz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687131> <https://schema.org/datePublished> "1976-10-10"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N1a7653507bf54defbfca17d37f08cf2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129687131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129687131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142931> .
+<http://data.beeldengeluid.nl/gtaa/1547949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1547949> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <https://schema.org/datePublished> "1976-11-18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1639284> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1639284> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sheikh, Ismail"@nl .
+_:N2add7f82763d40bdb1435ff80b554964 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N58646e72ecc6473e917295543f0311fa <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1639284> .
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <https://schema.org/byArtist> _:N4eaee12b57504ca0b59b9809a6528217 .
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <https://schema.org/byArtist> _:N58646e72ecc6473e917295543f0311fa .
+<http://data.beeldengeluid.nl/gtaa/1654682> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ubhayakar, Lalita"@nl .
+<http://data.beeldengeluid.nl/gtaa/1654682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142931> .
+_:N2add7f82763d40bdb1435ff80b554964 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129688331> .
+<http://data.beeldengeluid.nl/gtaa/1654682> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1639284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <https://schema.org/associatedMedia> _:N2add7f82763d40bdb1435ff80b554964 .
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <https://schema.org/name> "Programma Ubhayakar, Lalita - Sheikh, Ismail"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N4eaee12b57504ca0b59b9809a6528217 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1654682> .
+<http://data.beeldengeluid.nl/id/program/2101608140129688331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129699431> <https://schema.org/datePublished> "1979-04-07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129699431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143431> .
+<http://data.beeldengeluid.nl/gtaa/1036332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cairo Takhtensemble"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129699431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Ne17169d063f245e98076619bbc5bb75c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Ne17169d063f245e98076619bbc5bb75c <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129699431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129699431> .
+<http://data.beeldengeluid.nl/gtaa/1036332> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129699431> <https://schema.org/associatedMedia> _:Ne17169d063f245e98076619bbc5bb75c .
+<http://data.beeldengeluid.nl/id/program/2101608140129699431> <https://schema.org/byArtist> _:N9b481efd511347bbb92bc42115a01bcb .
+<http://data.beeldengeluid.nl/id/program/2101608140129699431> <https://schema.org/name> "Programma Cairo Takhtensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N9b481efd511347bbb92bc42115a01bcb <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1036332> .
+<http://data.beeldengeluid.nl/gtaa/1036332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+
+_:Nc14d9c04f4144baf90ddec6516068e19 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1064210> .
+_:Nf6eb9c0d2df74ce68fa3d3e95893fb29 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1599091> .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/byArtist> _:Nc14d9c04f4144baf90ddec6516068e19 .
+<http://data.beeldengeluid.nl/gtaa/1064210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gamelan Semar Pegulingan"@nl .
+<http://data.beeldengeluid.nl/gtaa/27666> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1599091> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mas, Cokorda"@nl .
+_:Nfd7b6dfe5e354211b8ef01ebff265ced <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129700431> .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/associatedMedia> _:Nfd7b6dfe5e354211b8ef01ebff265ced .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143431> .
+<http://data.beeldengeluid.nl/gtaa/27666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/name> "Programma Gamelan Semar Pegulingan - Mas, Cokorda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1599091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1064210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/about> <http://data.beeldengeluid.nl/gtaa/27666> .
+_:Nfd7b6dfe5e354211b8ef01ebff265ced <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/datePublished> "1979-06-18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1599091> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/27666> <http://www.w3.org/2004/02/skos/core#prefLabel> "repetities"@nl .
+<http://data.beeldengeluid.nl/gtaa/1064210> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129700431> <https://schema.org/byArtist> _:Nf6eb9c0d2df74ce68fa3d3e95893fb29 .
+
+<http://data.beeldengeluid.nl/gtaa/1064019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701031> <https://schema.org/datePublished> "1979-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1064019> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143431> .
+_:Nb9e43dc760a84436808a6e1f88b9e8aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129701031> .
+_:Nb9e43dc760a84436808a6e1f88b9e8aa <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129701031> <https://schema.org/associatedMedia> _:Nb9e43dc760a84436808a6e1f88b9e8aa .
+<http://data.beeldengeluid.nl/id/program/2101608140129701031> <https://schema.org/byArtist> _:N64163f77283b4db9ad4225789317972f .
+<http://data.beeldengeluid.nl/id/program/2101608140129701031> <https://schema.org/name> "Programma Gamelan Angklung Sidan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1064019> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gamelan Angklung Sidan"@nl .
+_:N64163f77283b4db9ad4225789317972f <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1064019> .
+
+<http://data.beeldengeluid.nl/gtaa/259622> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701331> <https://schema.org/datePublished> "1979-12-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N2315ef7ffb7a403bb113433d7ccfe160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/259622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701331> <https://schema.org/name> "Programma Tito Puente"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/259622> <http://www.w3.org/2004/02/skos/core#prefLabel> "Puente, Tito"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129701331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701331> <https://schema.org/byArtist> _:N2a07417734d74a54acc9dfb8ec616114 .
+<http://data.beeldengeluid.nl/id/program/2101608140129701331> <https://schema.org/associatedMedia> _:N2315ef7ffb7a403bb113433d7ccfe160 .
+<http://data.beeldengeluid.nl/id/program/2101608140129701331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129701331> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143431> .
+_:N2a07417734d74a54acc9dfb8ec616114 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/259622> .
+_:N2315ef7ffb7a403bb113433d7ccfe160 <https://schema.org/encodingFormat> "audio/mp3" .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129701431> <https://schema.org/name> "Programma Langestraat, Willy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/124099> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701431> <https://schema.org/associatedMedia> _:Nff7672ee45924c72be5f14f31475c18b .
+_:N046e3fbf0b1d468a8e5dae5e208a98ee <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/124099> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129701431> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/124099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nff7672ee45924c72be5f14f31475c18b <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/124099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Langestraat, Willy"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129701431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129701431> <https://schema.org/byArtist> _:N046e3fbf0b1d468a8e5dae5e208a98ee .
+_:Nff7672ee45924c72be5f14f31475c18b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129702031> <https://schema.org/associatedMedia> _:N9f15e308b7864cd0982b4948d3491728 .
+<http://data.beeldengeluid.nl/id/program/2101608140129702031> <https://schema.org/byArtist> _:Nd6350b99a9a74dc19938fea9d4bc24b9 .
+_:N9f15e308b7864cd0982b4948d3491728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129702031> <https://schema.org/datePublished> "1955-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129702031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029139331> .
+<http://data.beeldengeluid.nl/id/program/2101608140129702031> <https://schema.org/name> "Programma KIT - Muziek uit Marokko - Diverse uitvoerenden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N9f15e308b7864cd0982b4948d3491728 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129702031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129702031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129702031> .
+_:Nd6350b99a9a74dc19938fea9d4bc24b9 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129705531> <https://schema.org/associatedMedia> _:N7dfdf5ec2f5c4103a4fb3809f640d3c7 .
+_:N7dfdf5ec2f5c4103a4fb3809f640d3c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N7dfdf5ec2f5c4103a4fb3809f640d3c7 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129705531> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129705531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129705531> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129705531> .
+<http://data.beeldengeluid.nl/id/program/2101608140129705531> <https://schema.org/name> "Programma KIT - Muziek uit Indonesië"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129705731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129705731> .
+<http://data.beeldengeluid.nl/id/program/2101608140129705731> <https://schema.org/name> "Programma KIT - Muziek uit Indonesië - Religieuze liederen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129705731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129705731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N4c420e29260e4003b8de18cce12be11e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N4c420e29260e4003b8de18cce12be11e <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129705731> <https://schema.org/associatedMedia> _:N4c420e29260e4003b8de18cce12be11e .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129706631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129706631> .
+<http://data.beeldengeluid.nl/id/program/2101608140129706631> <https://schema.org/associatedMedia> _:Nc881f244b42848be886b5ed26e002652 .
+<http://data.beeldengeluid.nl/id/program/2101608140129706631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129706631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nc881f244b42848be886b5ed26e002652 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129706631> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nc881f244b42848be886b5ed26e002652 <https://schema.org/encodingFormat> "audio/mp3" .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129707131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129707131> .
+_:Nb13e06dd48de423a85959eb2f0604a3d <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129707131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nb13e06dd48de423a85959eb2f0604a3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707131> <https://schema.org/associatedMedia> _:Nb13e06dd48de423a85959eb2f0604a3d .
+<http://data.beeldengeluid.nl/id/program/2101608140129707131> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:N6a1aceeda0304f4a8663d3bb193e8a09 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N6a1aceeda0304f4a8663d3bb193e8a09 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129707631> <https://schema.org/associatedMedia> _:N6a1aceeda0304f4a8663d3bb193e8a09 .
+<http://data.beeldengeluid.nl/id/program/2101608140129707631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129707631> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707631> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129707731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707731> <https://schema.org/associatedMedia> _:N1ac96f847c374101afcd1fbae24e3568 .
+_:N1ac96f847c374101afcd1fbae24e3568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N1ac96f847c374101afcd1fbae24e3568 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129707731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129707731> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129707731> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129708631> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129708631> <https://schema.org/associatedMedia> _:Nd9ee6f1bd8c6451f9c325ab8e7a6e7a3 .
+_:Nd9ee6f1bd8c6451f9c325ab8e7a6e7a3 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129708631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129708631> .
+<http://data.beeldengeluid.nl/id/program/2101608140129708631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129708631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nd9ee6f1bd8c6451f9c325ab8e7a6e7a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129708731> <https://schema.org/associatedMedia> _:Nb14fc27b4c3a4633a3c62aa5a9455abb .
+<http://data.beeldengeluid.nl/id/program/2101608140129708731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129708731> .
+_:Nb14fc27b4c3a4633a3c62aa5a9455abb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nb14fc27b4c3a4633a3c62aa5a9455abb <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129708731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129708731> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129708731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+_:Nd04601e1cb884397aa8b921fe4e3e264 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nd04601e1cb884397aa8b921fe4e3e264 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129709231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129709231> .
+<http://data.beeldengeluid.nl/id/program/2101608140129709231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129709231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129709231> <https://schema.org/associatedMedia> _:Nd04601e1cb884397aa8b921fe4e3e264 .
+<http://data.beeldengeluid.nl/id/program/2101608140129709231> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129709531> <https://schema.org/associatedMedia> _:N229aae0c95ae489295a985a2c8255eee .
+_:N229aae0c95ae489295a985a2c8255eee <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129709531> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129709531> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129709531> .
+<http://data.beeldengeluid.nl/id/program/2101608140129709531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129709531> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N229aae0c95ae489295a985a2c8255eee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129710831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N166b9e29c1ef43559715fb5d72adcd63 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129710831> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129710831> .
+<http://data.beeldengeluid.nl/id/program/2101608140129710831> <https://schema.org/name> "Programma KIT - Muziek uit Suriname"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N166b9e29c1ef43559715fb5d72adcd63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129710831> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129710831> <https://schema.org/associatedMedia> _:N166b9e29c1ef43559715fb5d72adcd63 .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129712031> <https://schema.org/associatedMedia> _:N5ba99258f9dd417aa7af30ce9b4dca55 .
+<http://data.beeldengeluid.nl/id/program/2101608140129712031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129712031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129712031> .
+<http://data.beeldengeluid.nl/id/program/2101608140129712031> <https://schema.org/name> "Programma KIT - Muziek uit Libië"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N5ba99258f9dd417aa7af30ce9b4dca55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N5ba99258f9dd417aa7af30ce9b4dca55 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129712031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129712831> <https://schema.org/name> "Programma KIT - Muziek uit Libië"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/238660> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet bekend"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129712831> <https://schema.org/byArtist> _:Nb444167b63f74cd6a169d6d8ecf0d91d .
+<http://data.beeldengeluid.nl/id/program/2101608140129712831> <https://schema.org/byArtist> _:N7e2c992244944c889fcfae3a984a8743 .
+<http://data.beeldengeluid.nl/id/program/2101608140129712831> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129712831> <https://schema.org/associatedMedia> _:N7f9c338dfddd4f94a196518df8dab25d .
+_:N7f9c338dfddd4f94a196518df8dab25d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N7f9c338dfddd4f94a196518df8dab25d <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129712831> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129712831> .
+<http://data.beeldengeluid.nl/id/program/2101608140129712831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nb444167b63f74cd6a169d6d8ecf0d91d <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:N7e2c992244944c889fcfae3a984a8743 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129713131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129713131> <https://schema.org/associatedMedia> _:N2be66f6e5ca249f5bccc4c60fbeb5b89 .
+<http://data.beeldengeluid.nl/id/program/2101608140129713131> <https://schema.org/name> "Programma KIT - Muziek uit Libië"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129713131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129713131> .
+_:N2be66f6e5ca249f5bccc4c60fbeb5b89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N2be66f6e5ca249f5bccc4c60fbeb5b89 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129713131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129713331> <https://schema.org/name> "Programma KIT - Muziek uit Libië"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129713331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129713331> .
+<http://data.beeldengeluid.nl/id/program/2101608140129713331> <https://schema.org/associatedMedia> _:N79ccb8948d0b463ca79b966303da4e0e .
+<http://data.beeldengeluid.nl/id/program/2101608140129713331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+_:N79ccb8948d0b463ca79b966303da4e0e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129713331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N79ccb8948d0b463ca79b966303da4e0e <https://schema.org/encodingFormat> "audio/mp3" .
+
+_:N4a198f6abda44afda685aab27b8b55ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N4a198f6abda44afda685aab27b8b55ea <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129714431> <https://schema.org/name> "Programma KIT - Muziek uit Venezuela "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129714431> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714431> <https://schema.org/associatedMedia> _:N4a198f6abda44afda685aab27b8b55ea .
+<http://data.beeldengeluid.nl/id/program/2101608140129714431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet bekend"@nl .
+_:Nc498f4d7fbcd43be9c5833beec55eb81 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/byArtist> _:N7dbc08a43173401f8d9e0499bef6af3c .
+<http://data.beeldengeluid.nl/gtaa/1578072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/associatedMedia> _:N3ba4ba139cac4b11b80b5a689d763fdc .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/byArtist> _:N8e48a6a7a72b4f8e923211a41877a488 .
+_:N3ba4ba139cac4b11b80b5a689d763fdc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N7dbc08a43173401f8d9e0499bef6af3c <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1578072> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nee6d061a96d04ff38198d78e2aac78f4 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/gtaa/1578072> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/byArtist> _:N4172bc7a457f4bc2999fcfcdee4bcd30 .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/byArtist> _:Nc498f4d7fbcd43be9c5833beec55eb81 .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/byArtist> _:Nee6d061a96d04ff38198d78e2aac78f4 .
+<http://data.beeldengeluid.nl/gtaa/238660> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/name> "Programma Kashmir, Amir Guzali        "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129714731> .
+<http://data.beeldengeluid.nl/gtaa/1578072> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kashmir, Amir Guzali"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140731> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N4172bc7a457f4bc2999fcfcdee4bcd30 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:N3ba4ba139cac4b11b80b5a689d763fdc <https://schema.org/encodingFormat> "audio/mp3" .
+_:N8e48a6a7a72b4f8e923211a41877a488 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714731> <https://schema.org/datePublished> "1967-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet bekend"@nl .
+_:N959c60174bc5476e87535fb83748ebc3 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140731> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/associatedMedia> _:N78888b5659b64fc19593224fec46fd6b .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N78888b5659b64fc19593224fec46fd6b <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/name> "Programma KIT - Muziek uit India"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/byArtist> _:Ne54080d47e5f43a799e071cf335fa88e .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/byArtist> _:N959c60174bc5476e87535fb83748ebc3 .
+<http://data.beeldengeluid.nl/gtaa/238660> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/datePublished> "1967-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/byArtist> _:N55a3cd0472124ae5a184d80d258ef353 .
+_:N2980765ddb3f4a47b1f73b65a3b01d3e <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/byArtist> _:Nbbbc8c242cab410cb08070dcae6187e0 .
+_:N78888b5659b64fc19593224fec46fd6b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nbbbc8c242cab410cb08070dcae6187e0 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129714831> .
+_:Ne54080d47e5f43a799e071cf335fa88e <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:N55a3cd0472124ae5a184d80d258ef353 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/byArtist> _:N227407f06f3d47e895b468fcaf1a6480 .
+<http://data.beeldengeluid.nl/id/program/2101608140129714831> <https://schema.org/byArtist> _:N2980765ddb3f4a47b1f73b65a3b01d3e .
+_:N227407f06f3d47e895b468fcaf1a6480 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+
+<http://data.beeldengeluid.nl/gtaa/1557788> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/byArtist> _:N41a477bbffe541d1849d97187f564422 .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet bekend"@nl .
+<http://data.beeldengeluid.nl/gtaa/1094530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mehmemue"@nl .
+<http://data.beeldengeluid.nl/gtaa/1038417> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1094530> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N41a477bbffe541d1849d97187f564422 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/byArtist> _:N82187e4e5278431e87c4831dd9d19046 .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129715431> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/byArtist> _:Nb5cf3f7599e841238644cea1f0b00ec2 .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/byArtist> _:N597819b380d74e7aa16c8c2243197fc5 .
+<http://data.beeldengeluid.nl/gtaa/1567008> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1557788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nb5cf3f7599e841238644cea1f0b00ec2 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1557788> .
+<http://data.beeldengeluid.nl/gtaa/1567008> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heruume, Manolo"@nl .
+<http://data.beeldengeluid.nl/gtaa/1557788> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gonzalez, Kanaawa"@nl .
+_:Ne30c5aa57d204daa8a5ee6305d02b40a <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029141131> .
+<http://data.beeldengeluid.nl/gtaa/1038417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1094530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Ne30c5aa57d204daa8a5ee6305d02b40a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/1038417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cayetano"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/associatedMedia> _:Ne30c5aa57d204daa8a5ee6305d02b40a .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/byArtist> _:N062a0d58d8aa40ecabd7dfabaf65b258 .
+<http://data.beeldengeluid.nl/gtaa/1567008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N597819b380d74e7aa16c8c2243197fc5 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1567008> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/datePublished> "1962-02-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/238660> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N062a0d58d8aa40ecabd7dfabaf65b258 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1094530> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715431> <https://schema.org/name> "Programma Heruume, Manolo - Gonzalez, Kanaawa - Cayetano - Mehmemue  "^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N82187e4e5278431e87c4831dd9d19046 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1038417> .
+
+_:N32fd9bb08e4f49b4b55f78dfc3ff9373 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet bekend"@nl .
+_:Nd37a8a43bc484c728dcbe29dd50162d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/name> "Programma KIT - Muziek uit Marokko - Vocaal Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/byArtist> _:N4499c7e9d36a4802bc64763c1c4255f0 .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/byArtist> _:Nc00b69e84cce46acade36d183d01c012 .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1148012> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vocaal Ensemble"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/byArtist> _:N785b44c13bf641b8acb21dac7eb717eb .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129715731> .
+<http://data.beeldengeluid.nl/gtaa/238660> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/byArtist> _:N32fd9bb08e4f49b4b55f78dfc3ff9373 .
+_:Nd37a8a43bc484c728dcbe29dd50162d2 <https://schema.org/encodingFormat> "audio/mp3" .
+_:Nc00b69e84cce46acade36d183d01c012 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1148012> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1148012> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/datePublished> "1969-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1148012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/associatedMedia> _:Nd37a8a43bc484c728dcbe29dd50162d2 .
+_:N785b44c13bf641b8acb21dac7eb717eb <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029141331> .
+<http://data.beeldengeluid.nl/id/program/2101608140129715731> <https://schema.org/byArtist> _:N2af58bd6920540ea885761ccc2be09ac .
+_:N2af58bd6920540ea885761ccc2be09ac <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+_:N4499c7e9d36a4802bc64763c1c4255f0 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+
+_:N5bbb3e9b0abf4db09ca815c44a170f73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N5bbb3e9b0abf4db09ca815c44a170f73 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129716231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716231> <https://schema.org/name> "Programma KIT - Muziek uit Opper-Volta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129716231> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716231> <https://schema.org/associatedMedia> _:N5bbb3e9b0abf4db09ca815c44a170f73 .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129716331> <https://schema.org/associatedMedia> _:N27dbfa2fde2549f6b31b457e4a37aa2b .
+<http://data.beeldengeluid.nl/id/program/2101608140129716331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N27dbfa2fde2549f6b31b457e4a37aa2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129716331> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716331> <https://schema.org/name> "Programma KIT - Muziek uit Opper-Volta"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N27dbfa2fde2549f6b31b457e4a37aa2b <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129716331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129716631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716631> <https://schema.org/associatedMedia> _:Nb5c9e63da9a14e268c94c2e5299f4f9d .
+_:Nb5c9e63da9a14e268c94c2e5299f4f9d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nb5c9e63da9a14e268c94c2e5299f4f9d <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129716631> <https://schema.org/name> "Programma KIT - Muziek uit Opper-Volta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129716631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129716631> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129718131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nb9fa24db4269481c9cd8d1637d34bd5b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129718131> <https://schema.org/associatedMedia> _:Nb9fa24db4269481c9cd8d1637d34bd5b .
+_:Nb9fa24db4269481c9cd8d1637d34bd5b <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129718131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129718131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129718131> <https://schema.org/name> "Programma KIT - Muziek uit Opper-Volta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129718131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+
+_:Nc002911853444645a52c5906821ec426 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129718831> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129718831> <https://schema.org/name> "Programma KIT - Muziek uit Opper-Volta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129718831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Nc002911853444645a52c5906821ec426 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129718831> <https://schema.org/associatedMedia> _:Nc002911853444645a52c5906821ec426 .
+<http://data.beeldengeluid.nl/id/program/2101608140129718831> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129718831> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129719131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129719131> <https://schema.org/associatedMedia> _:N9120b18cedfe41798451c5c5b4316fed .
+<http://data.beeldengeluid.nl/id/program/2101608140129719131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129719131> .
+_:N9120b18cedfe41798451c5c5b4316fed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129719131> <https://schema.org/name> "Programma KIT - Muziek uit Opper-Volta"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N9120b18cedfe41798451c5c5b4316fed <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129719131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+_:N1d8f51fd4f1e4be99374d0b5a30df1f0 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+<http://data.beeldengeluid.nl/id/program/2101608140129721231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129721231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129721231> .
+<http://data.beeldengeluid.nl/id/program/2101608140129721231> <https://schema.org/byArtist> _:N1d8f51fd4f1e4be99374d0b5a30df1f0 .
+<http://data.beeldengeluid.nl/id/program/2101608140129721231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140031> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129721231> <https://schema.org/associatedMedia> _:N51910eb52df94b1fbdf23fbde6ec2c0b .
+<http://data.beeldengeluid.nl/id/program/2101608140129721231> <https://schema.org/datePublished> "1958-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N51910eb52df94b1fbdf23fbde6ec2c0b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N51910eb52df94b1fbdf23fbde6ec2c0b <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129721231> <https://schema.org/name> "Programma KIT - Diverse uitvoerenden - Muziek uit Nederlands Nieuw Guinea"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:N73d654f7a4d44a188dabe12eec4ee1bb <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129721731> <https://schema.org/name> "Programma KIT - Diverse uitvoerenden - Muziek uit Nederlands Nieuw Guinea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129721731> <https://schema.org/datePublished> "1958-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140129721731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129721731> .
+_:Ne54dcbaa649d42f58c140290182a04bb <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+<http://data.beeldengeluid.nl/id/program/2101608140129721731> <https://schema.org/byArtist> _:Ne54dcbaa649d42f58c140290182a04bb .
+<http://data.beeldengeluid.nl/id/program/2101608140129721731> <https://schema.org/associatedMedia> _:N73d654f7a4d44a188dabe12eec4ee1bb .
+<http://data.beeldengeluid.nl/id/program/2101608140129721731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129721731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140031> .
+_:N73d654f7a4d44a188dabe12eec4ee1bb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129722431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129722431> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722431> <https://schema.org/datePublished> "1974-03-29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722431> <https://schema.org/associatedMedia> _:N26cab9a4ad3c42b0875d2e5a0921617e .
+_:N26cab9a4ad3c42b0875d2e5a0921617e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N26cab9a4ad3c42b0875d2e5a0921617e <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129722431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142631> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722431> <https://schema.org/name> "Programma KIT - Muziek uit Thailand - Boeddistische recitatie bij opening tentoonstelling Tropenmuseum 1974"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129722631> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029142631> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722631> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129722631> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722631> <https://schema.org/datePublished> "1974-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129722631> <https://schema.org/associatedMedia> _:Nef19625feffa4a39bf052f92081de6c4 .
+_:Nef19625feffa4a39bf052f92081de6c4 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129722631> <https://schema.org/name> "Programma KIT - Muziek uit Opper-Volta"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:Nef19625feffa4a39bf052f92081de6c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129770031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+_:N851b22d3ba574a18808695e51dc162de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140129770031> <https://schema.org/name> "Programma KIT - Geluiden en muziek uit Marokko"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129770031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129770031> .
+_:N851b22d3ba574a18808695e51dc162de <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129770031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140129770031> <https://schema.org/associatedMedia> _:N851b22d3ba574a18808695e51dc162de .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129844131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129844131> .
+<http://data.beeldengeluid.nl/id/program/2101608140129844131> <https://schema.org/byArtist> _:N3b207f66f3ef4cd981087bffefd977e6 .
+_:N3b207f66f3ef4cd981087bffefd977e6 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1711597> .
+<http://data.beeldengeluid.nl/id/program/2101608140129844131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029146131> .
+<http://data.beeldengeluid.nl/gtaa/1711597> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N110b70a311054516b90737495f8d5a3b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N110b70a311054516b90737495f8d5a3b <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140129844131> <https://schema.org/name> "Programma North Sea Jazz Festival 1999"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129844131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1711597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1711597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dick de Graaf Septet"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129844131> <https://schema.org/datePublished> "1999-07-11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129844131> <https://schema.org/associatedMedia> _:N110b70a311054516b90737495f8d5a3b .
+
+<http://data.beeldengeluid.nl/gtaa/156583> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N7e9800117c3949529d20e5c9c2ac3c68 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/156583> .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <https://schema.org/name> "Programma Radio Kamerorkest - Spanjaard, Ed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/64892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/64892> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <https://schema.org/datePublished> "1988-02-14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029143931> .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <https://schema.org/associatedMedia> _:N23dfa18434bd49219cb20bd08ca17cec .
+_:N23dfa18434bd49219cb20bd08ca17cec <https://schema.org/encodingFormat> "audio/mp3" .
+_:Ne10915a32d9a4c3a86e9576dade1b3da <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/64892> .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <https://schema.org/byArtist> _:Ne10915a32d9a4c3a86e9576dade1b3da .
+<http://data.beeldengeluid.nl/gtaa/64892> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio Kamerorkest"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <https://schema.org/byArtist> _:N7e9800117c3949529d20e5c9c2ac3c68 .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/156583> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanjaard, Ed"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129872431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129872431> .
+_:N23dfa18434bd49219cb20bd08ca17cec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/156583> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029140731> .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140129895231> .
+<http://data.beeldengeluid.nl/gtaa/109124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nfd674d69aea14667bad2d54496224829 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/109124> .
+<http://data.beeldengeluid.nl/gtaa/1386786> <http://www.w3.org/2004/02/skos/core#prefLabel> "ORKEST"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Na496f9a347264cbaa48afaa8bb951c4b <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/109124> .
+<http://data.beeldengeluid.nl/gtaa/109124> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hermans, Toon"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/byArtist> _:N5f29ae2c208840d49a4077b8736181a7 .
+_:N452b417f2a9a40e48ace0297dad37418 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/1386786> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/109124> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/byArtist> _:Na496f9a347264cbaa48afaa8bb951c4b .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/datePublished> "1967-12-23"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/associatedMedia> _:N452b417f2a9a40e48ace0297dad37418 .
+_:N452b417f2a9a40e48ace0297dad37418 <https://schema.org/encodingFormat> "audio/mp3" .
+_:N5f29ae2c208840d49a4077b8736181a7 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1386786> .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/name> "Programma Toon Hermans"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140129895231> <https://schema.org/byArtist> _:Nfd674d69aea14667bad2d54496224829 .
+<http://data.beeldengeluid.nl/gtaa/1386786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140130101531> <https://schema.org/keywords> "Turin Brakes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140130101531> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140130101531> .
+<http://data.beeldengeluid.nl/id/program/2101608140130101531> <https://schema.org/datePublished> "2001-03-12"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N3eb50b6310594a4db2cbb9752bffed86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140130101531> <https://schema.org/name> "Programma Turin Brakes"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N3eb50b6310594a4db2cbb9752bffed86 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140130101531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140130101531> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029147431> .
+<http://data.beeldengeluid.nl/id/program/2101608140130101531> <https://schema.org/associatedMedia> _:N3eb50b6310594a4db2cbb9752bffed86 .
+
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <https://schema.org/name> "Programma Metropole Orkest - Valten, Guus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140130357031> .
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <https://schema.org/keywords> "Valten, Guus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:Neb1b053b50b54f4196438174d04497b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metropole Orkest"@nl .
+_:Neb1b053b50b54f4196438174d04497b3 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <https://schema.org/byArtist> _:N0e408b62a0a14ec7808c71113d5480ae .
+_:N0e408b62a0a14ec7808c71113d5480ae <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/61423> .
+<http://data.beeldengeluid.nl/gtaa/61423> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029141731> .
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <https://schema.org/associatedMedia> _:Neb1b053b50b54f4196438174d04497b3 .
+<http://data.beeldengeluid.nl/gtaa/61423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140130357031> <https://schema.org/datePublished> "1971-01-26"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/byArtist> _:N3e28bccbbb564c2a90b5130435ff4fa5 .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/datePublished> "1954-06-10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1074899> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instrumentaal Ensemble"@nl .
+<http://data.beeldengeluid.nl/gtaa/1079718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N392c4b74a79d4bf4982bb7bfac591bdd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/byArtist> _:N145c54eb330b45639944100577235952 .
+_:N3e28bccbbb564c2a90b5130435ff4fa5 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1606398> .
+_:Nbfd138756a384f3d842241dafb303e2a <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1074899> .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/name> "Programma Morris, Ismaal - Kaaps Maleis Centraal Koor - Instrumentaal Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1074899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029139131> .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/associatedMedia> _:N392c4b74a79d4bf4982bb7bfac591bdd .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1606398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140130511131> .
+_:N145c54eb330b45639944100577235952 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1079718> .
+<http://data.beeldengeluid.nl/gtaa/1606398> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morris, Ismaal"@nl .
+_:N392c4b74a79d4bf4982bb7bfac591bdd <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1074899> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1606398> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1079718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaaps Maleis Centraal Koor"@nl .
+<http://data.beeldengeluid.nl/gtaa/1079718> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140130511131> <https://schema.org/byArtist> _:Nbfd138756a384f3d842241dafb303e2a .
+
+_:Nd5f91b578ad14f82bba0b379cff3935c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Nd5f91b578ad14f82bba0b379cff3935c <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140130512531> <https://schema.org/associatedMedia> _:Nd5f91b578ad14f82bba0b379cff3935c .
+<http://data.beeldengeluid.nl/id/program/2101608140130512531> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140130512531> <https://schema.org/name> "Programma Muziek uit Zuid-Afrika - Totsiboy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140130512531> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140130512531> .
+<http://data.beeldengeluid.nl/id/program/2101608140130512531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+
+<http://data.beeldengeluid.nl/gtaa/1113760> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029139531> .
+_:Na948e7c0110649a09f4b30d301971903 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1113760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514231> <https://schema.org/associatedMedia> _:Na948e7c0110649a09f4b30d301971903 .
+<http://data.beeldengeluid.nl/gtaa/1113760> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proteaklub"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140130514231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140130514231> .
+_:Na948e7c0110649a09f4b30d301971903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:Ndb44194be4e04a0ab433d72645fcfc95 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1113760> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514231> <https://schema.org/name> "Programma Proteaklub"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514231> <https://schema.org/byArtist> _:Ndb44194be4e04a0ab433d72645fcfc95 .
+<http://data.beeldengeluid.nl/id/program/2101608140130514231> <https://schema.org/datePublished> "1956-09-07"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:N8072675f720c483ea1f4d08fcbb1a495 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet bekend"@nl .
+<http://data.beeldengeluid.nl/gtaa/1083260> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <https://schema.org/byArtist> _:N1695aedcbefc466e9910672447104942 .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <https://schema.org/byArtist> _:N2e02846dfb9e445ca1bcd5e1f7f441c8 .
+<http://data.beeldengeluid.nl/gtaa/238660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029141131> .
+<http://data.beeldengeluid.nl/gtaa/238660> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140130514431> .
+<http://data.beeldengeluid.nl/gtaa/1083260> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koor"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <https://schema.org/associatedMedia> _:N8072675f720c483ea1f4d08fcbb1a495 .
+_:N2e02846dfb9e445ca1bcd5e1f7f441c8 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1083260> .
+_:N8072675f720c483ea1f4d08fcbb1a495 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <https://schema.org/name> "Programma KIT - Muziek uit Zuid-Afrika"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140130514431> <https://schema.org/datePublished> "1962-01-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1083260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:N1695aedcbefc466e9910672447104942 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/238660> .
+
+<http://data.beeldengeluid.nl/id/program/2101608140130515231> <https://schema.org/byArtist> _:N46a0e2c9dbc04cec9089a4cefa6c5858 .
+_:N2decd51ca1e9402b907fcfbb7753012d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N2decd51ca1e9402b907fcfbb7753012d <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N46a0e2c9dbc04cec9089a4cefa6c5858 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608140130515231> <https://schema.org/associatedMedia> _:N2decd51ca1e9402b907fcfbb7753012d .
+<http://data.beeldengeluid.nl/id/program/2101608140130515231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608140130515231> <https://schema.org/name> "Programma KIT - Muziek uit Indonesië - Diverse uitvoerenden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608140130515231> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608140130515231> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140130515231> .
+
+<http://data.beeldengeluid.nl/id/program/2101608150130895031> <https://schema.org/associatedMedia> _:N16d8c1fd971544a887367a34678fbec5 .
+<http://data.beeldengeluid.nl/id/program/2101608150130895031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608150130895031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029147731> .
+<http://data.beeldengeluid.nl/id/program/2101608150130895031> <https://schema.org/datePublished> "2002-12-21"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N16d8c1fd971544a887367a34678fbec5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608150130895031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608150130895031> .
+_:N16d8c1fd971544a887367a34678fbec5 <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608150130895031> <https://schema.org/name> "Programma Innercity 2002"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608150130895031> <https://schema.org/keywords> "Umek"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:N59ca1a5a18cc46378554f3c6c0c96e63 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/255064> .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/mentions> _:N018c878ca3724233955e42d6df0e9a97 .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029145431> .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/datePublished> "2005-08-21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/255064> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:N78c79a70a2bf45819e71634c5e8a5a57 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/255064> .
+<http://data.beeldengeluid.nl/gtaa/242415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broek, Sjoerd van den"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/creator> _:N59ca1a5a18cc46378554f3c6c0c96e63 .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/associatedMedia> _:N65854e1bd45e4146b5c856ce52e44fd1 .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608150130916331> .
+<http://data.beeldengeluid.nl/gtaa/242415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/name> "Programma Lowlands 2005"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/creator> _:N0edbac245f7c4bf0a2d04719a2381922 .
+<http://data.beeldengeluid.nl/gtaa/255064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+_:N65854e1bd45e4146b5c856ce52e44fd1 <https://schema.org/encodingFormat> "audio/mp3" .
+_:N0edbac245f7c4bf0a2d04719a2381922 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/242415> .
+<http://data.beeldengeluid.nl/gtaa/242415> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/255064> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cocco, Mirco"@nl .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/keywords> "Viva Voce"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N65854e1bd45e4146b5c856ce52e44fd1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/255064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <https://schema.org/mentions> _:N78c79a70a2bf45819e71634c5e8a5a57 .
+<http://data.beeldengeluid.nl/id/program/2101608150130916331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/242415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Thing> .
+_:N018c878ca3724233955e42d6df0e9a97 <https://schema.org/mentions> <http://data.beeldengeluid.nl/gtaa/242415> .
+
+<http://data.beeldengeluid.nl/id/program/2101608150130992031> <https://schema.org/name> "Programma Rock Werchter 2008"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608150130992031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608150130992031> .
+<http://data.beeldengeluid.nl/id/program/2101608150130992031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608150130992031> <https://schema.org/datePublished> "2008-07-06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608150130992031> <https://schema.org/associatedMedia> _:N520d46a6147441e5b47cf5601c43627e .
+_:N520d46a6147441e5b47cf5601c43627e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N520d46a6147441e5b47cf5601c43627e <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608150130992031> <https://schema.org/keywords> "Vanhamel, Tim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608150130992031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029147231> .
+
+<http://data.beeldengeluid.nl/id/program/2101608150131020331> <https://schema.org/byArtist> _:Ndc1eb7dbc13a4d9ca9a10ee6f28dd455 .
+<http://data.beeldengeluid.nl/id/program/2101608150131020331> <https://schema.org/name> "Programma Musica Sacra Maastricht 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+_:N88a8748377ba40f29755bc755e460464 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608150131020331> <https://schema.org/associatedMedia> _:N88a8748377ba40f29755bc755e460464 .
+<http://data.beeldengeluid.nl/id/program/2101608150131020331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2101608150131020331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+_:Ndc1eb7dbc13a4d9ca9a10ee6f28dd455 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+<http://data.beeldengeluid.nl/id/program/2101608150131020331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608150131020331> .
+_:N88a8748377ba40f29755bc755e460464 <https://schema.org/encodingFormat> "audio/mp3" .
+
+<http://data.beeldengeluid.nl/id/program/2101608150131074831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608150131074831> <https://schema.org/associatedMedia> _:N6ec6c7fb1e684b9aa52ca99d141c353e .
+_:N6ec6c7fb1e684b9aa52ca99d141c353e <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608150131074831> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+<http://data.beeldengeluid.nl/id/program/2101608150131074831> <https://schema.org/name> "Programma Rhythm & Blues Night 2004"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2101608150131074831> <https://schema.org/byArtist> _:N575ef8c0cd6449a1963d334b62659e72 .
+<http://data.beeldengeluid.nl/gtaa/1429245> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sankey, Lee"@nl .
+_:N6ec6c7fb1e684b9aa52ca99d141c353e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N575ef8c0cd6449a1963d334b62659e72 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1429245> .
+<http://data.beeldengeluid.nl/gtaa/1429245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/gtaa/1429245> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2101608150131074831> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608150131074831> .
+
+<http://data.beeldengeluid.nl/gtaa/55948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+_:Nd48b85e18cda4d749998e7f38e4b5f5c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2101608150131204731> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608150131204731> .
+<http://data.beeldengeluid.nl/id/program/2101608150131204731> <https://schema.org/associatedMedia> _:Nd48b85e18cda4d749998e7f38e4b5f5c .
+<http://data.beeldengeluid.nl/gtaa/55948> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/55948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Het Brabants Orkest"@nl .
+_:Nd48b85e18cda4d749998e7f38e4b5f5c <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2101608150131204731> <https://schema.org/byArtist> _:Nc30b2531a030475497dcd41a17bb14e8 .
+<http://data.beeldengeluid.nl/id/program/2101608150131204731> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040028849131> .
+_:Nc30b2531a030475497dcd41a17bb14e8 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/55948> .
+<http://data.beeldengeluid.nl/id/program/2101608150131204731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2101608150131204731> <https://schema.org/name> "Programma Zondagochtendconcert"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/license> <http://rightsstatements.org/vocab/InC/1.0/> .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/associatedMedia> _:N1bcfabe560934eaf8c5fbf334ec12d5a .
+_:Ndd2732ee9d9945cda502bfe842de39a3 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2102101040291673231> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+_:N1bcfabe560934eaf8c5fbf334ec12d5a <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/conditionsOfAccess> "Media is not available for viewing/listening online"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/byArtist> _:Ndd2732ee9d9945cda502bfe842de39a3 .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/datePublished> "2021-02-20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2102103080298021531> .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N1bcfabe560934eaf8c5fbf334ec12d5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+<http://data.beeldengeluid.nl/id/program/2102103080298021531> <https://schema.org/name> "Leden van de Nederlandse Bachvereeniging mmv Lucie Horsch"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://data.beeldengeluid.nl/gtaa/226919> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/creator> _:N9d17e54bcb1d4a2e80afbe8204160cf2 .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2102101040291673231> .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/name> "Andriessen Festival: RKST21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/license> <http://rightsstatements.org/vocab/InC/1.0/> .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2102103080298022031> .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/associatedMedia> _:N7b4c7a2b9213425899ea9fa04e8ff8de .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/datePublished> "2021-03-07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+_:N7b4c7a2b9213425899ea9fa04e8ff8de <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/byArtist> _:Nf44c218ef65646a0bcfcdd432a00174e .
+<http://data.beeldengeluid.nl/gtaa/226919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2102103080298022031> <https://schema.org/conditionsOfAccess> "Media is not available for viewing/listening online"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/gtaa/226919> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elzinga, Maarten"@nl .
+_:Nf44c218ef65646a0bcfcdd432a00174e <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+_:N9d17e54bcb1d4a2e80afbe8204160cf2 <https://schema.org/creator> <http://data.beeldengeluid.nl/gtaa/226919> .
+_:N7b4c7a2b9213425899ea9fa04e8ff8de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/byArtist> _:N526fb86057b847b0bd4c3f52c64a84a9 .
+_:N526fb86057b847b0bd4c3f52c64a84a9 <https://schema.org/byArtist> <http://data.beeldengeluid.nl/gtaa/1233738> .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/datePublished> "2008-11-08"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/url> <https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2102103090298142331> .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/conditionsOfAccess> "Media is not available for viewing/listening online"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:N2ba253d5a0ed44cf9925033b520df8fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/AudioObject> .
+_:N2ba253d5a0ed44cf9925033b520df8fc <https://schema.org/encodingFormat> "audio/mp3" .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diverse uitvoerenden"@nl .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/associatedMedia> _:N2ba253d5a0ed44cf9925033b520df8fc .
+<http://data.beeldengeluid.nl/gtaa/1233738> <https://schema.org/additionalType> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://data.beeldengeluid.nl/gtaa/1233738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/CreativeWork> .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/partOfSeason> <http://data.beeldengeluid.nl/id/season/2101608040029147231> .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/license> <http://rightsstatements.org/vocab/InC/1.0/> .
+<http://data.beeldengeluid.nl/id/program/2102103090298142331> <https://schema.org/name> "Nederlandse Muziekdagen: Henriëtte Bosmans Prijs 2008"^^<http://www.w3.org/2001/XMLSchema#string> .
+
